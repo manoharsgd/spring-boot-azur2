@@ -9,7 +9,7 @@ public class TestController {
 	@RequestMapping("/demo")
 	public String getDemo()
 	{
-		return "Wel come to Sprong Boot Azur Demo2.....";
+		return "Wel come to Sprong Boot Azur Demo2 Updated after new code comitted.....";
 	}
 
 }
